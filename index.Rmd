@@ -20,7 +20,7 @@ output:
 
 # A Systematic Review of Industrial Noise and Vibration Effects on Wildlife 
 
-### Thresholds and Mitigation Strategies 
+## Thresholds and Mitigation Strategies 
 
 
 
@@ -31,5 +31,126 @@ output:
 ## <a href="https://crosbya1.github.io/final-noise-review-presentation/">Presentation Link</a>
 <br />
 
-##### 
 ---
+
+# Roadmap 
+
+--
+
+## 1. Project background 
+--
+
+## 2. Overview of sound
+
+--
+
+## 3. Summary of terrestrial noise effecs research
+
+--
+
+## 4. Thresholds and reccommendations
+
+--
+
+## 5. Summary of vibration research 
+
+--
+
+## 6. Research reccomendations
+
+
+---
+
+# The Growth of Noise in the Environment 
+
+## **Noise:** *sound caused by human activity*
+
+<br>
+
+## We make a LOT of noise! 
+
+<br>
+
+## And it's EVERYWHERE 
+
+---
+
+# Effects of Noise on Wildlife 
+
+## Extends beyond the physical footprint 
+  - ### Road noise might be worse than roads 
+
+<br> 
+
+## Found throughout otherwise intact ecosystems 
+
+<br> 
+
+## Effects much different from natural sounds 
+
+---
+# Two Main Types of Effects 
+
+
+.pull-left[
+## Behavioural Effects
+
+ - ### Movement patterns 
+ 
+ - ### Communication strategies 
+] 
+
+
+.pull-right[
+## Physiological Effects
+
+  - ### Hearing loss
+  - ### Increased stress hormones
+] 
+
+<br>
+
+--
+# Fitness Costs: **Changes in survival and reproduction** 
+
+---
+
+# Understanding Vulnerability to Noise
+
+<img src="figures/vulnerability-diagram.png" width="90%" align="middle" />
+
+
+---
+
+# Overview of Noise Effects 
+
+## Most research focused on behaviour 
+
+<br>
+
+## **Three main behavioural pathways** 
+
+--
+
+* ## **Disturbance:** perceived as a threat
+
+--
+
+* ## **Distraction:** attention diverted
+
+--
+
+* ## **Masking:** covers important auditory cues
+
+---
+# Behavioural Effects
+![](threat-cue-detection.png)
+
+
+
+
+
+
+
+
+
