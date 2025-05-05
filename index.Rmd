@@ -1,0 +1,35 @@
+---
+title: "A Systematic Review of Industrial Noise and Vibration Effects on Wildlife" 
+subtitle: "Thresholds and Mitigation Strategies" 
+author: "Andrew D. Crosby, Erin M. Banye, Cristabel Godoy"
+institute: "University of Alberta"
+date: "2025/05/09"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: false
+    chakra: libs/remark-latest.min.js
+    nature:
+      ratio:  '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      self_contained: true
+---
+
+
+# A Systematic Review of Industrial Noise and Vibration Effects on Wildlife 
+
+### Thresholds and Mitigation Strategies 
+
+
+
+## Andrew D. Crosby | Erin M. Bayne | Cristabel Godoy 
+### May 09, 2025  
+<br />
+
+## <a href="https://crosbya1.github.io/final-noise-review-presentation/">Presentation Link</a>
+<br />
+
+##### 
+---
