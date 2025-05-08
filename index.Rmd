@@ -667,8 +667,19 @@ output:
 
 ## Exposure = noise footprint + animal hearing capability 
 
+.pull-left[
+## Sampling in rings around facilities 
+
+## Calibration ARUs for dB and frequency
+
+## Mapping the noise footprint
+
+## Estimating exposure
+]
+
+
 .pull-right[
-<img src="figures/noise-footprint.png" width="80%" align="middle" /> 
+<img src="figures/noise-footprint.png" width="70%" align="middle" /> 
 
 ]
 
