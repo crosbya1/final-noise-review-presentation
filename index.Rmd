@@ -407,7 +407,7 @@ output:
 
 * ## Songbird densities at noisy compressor stations and noiseless well pads
 
-* ## 33% of specie showed negative noise response 
+* ## 33% of species showed negative noise response 
 
 * ## Noise reduced habitat quality 
 
@@ -492,7 +492,6 @@ output:
 ]
 
 ---
-# Summary of Effects on Mammals 
 # **Mammals found in Canada** 
 
 ## Kleist et al. (2021) *in Journal of Animal Ecology*
@@ -501,11 +500,11 @@ output:
 
 * ## Drilling phase created much more noise 
 
-* ## Stronly suggests noise is the primary factor 
+* ## Strongly suggests noise is the primary factor 
 
 
 ---
-# Summary of Effects on Mammals 
+# **Mammals found in Canada** 
 
 ## Caribou response to low-level aircraft 
  * ## Caribou showed disturbance effects to aircraft (Maier et al. 1998 *in Journal of Wildlife Management*)
@@ -515,14 +514,68 @@ output:
 ---
 # Summary of Effects on Herps 
 
+.pull-left[
+## Research on masking effects (60%)
+
+* ## Changes in calling behaviour (almost entirely)
+
+* ## Some on mate selection 
+
+## Space use 
+
+* ## Little effect 
+]
+
+
+.pull-right[
+<img src="figures/herps_plot.png" width="100%" align="middle" />
+] 
+
+---
+# **Herps found in Canada** 
+
+## Anurans in eastern Ontario (Vargas-Salinas et al. 2014 *in Urban Ecosystems*) 
+
+* ## Variable response in mating call timing 
+
+<br>
+
+## Wood frog response to traffic playback (Tennessen et al. 2014 *in Conservation Physiology*)
+
+* ## Increased cortisol and reduced phonotaxis (ability to find the calling male)
 
 
 ---
 # Summary of Effects on Invertebrates
 
 
+.pull-left[
+## Only 22 total studies 
+
+* ## Masking effects on mating and territory defense
+
+* ## Disturbance effects on space use and foraging/predator defense
+]
+
+.pull-right[
+<img src="figures/inverts_plot.png" width="100%" align="middle" />
+]
 
 ---
+# **Invertebrates in Canada** 
+
+## Monarch butterfly larvae (Davis et al. 2018 *in Biology Letters*) 
+
+* ## Stress response to simulated highway noise 
+
+* ## Apparent habituation after 7-12 days 
+<br> 
+
+## May impair reactions to real stressors as adults 
+
+
+---
+
 # Thresholds in noise levels 
 
 ## **Ecological threshold:** a point at which a small change in an ecological driver results in a large response 
@@ -536,12 +589,12 @@ output:
 ## We looked a the minimum noise level at which a response was found 
 
 ---
-# Threshold Plot
+# Threshold Plot (Shannon et al. 2016 *in Biological Reviews*)
 
 <img src="figures/shannon_2016_cumsum_plot.png" width="60%" align="middle" /> 
 
 ---
-# Threshold table
+# Cumulative percent of studies with effect at a given noise level 
 
 <img src="thresh-tab.png" width="80%" align="middle" /> 
 
@@ -593,5 +646,30 @@ output:
 # Vibration Effects on Terrestrial Wildlife 
 
 
+---
+# Research Gaps 
+
+* ## Lack of research on nuclear facilities 
+
+* ## Long term studies of multiple responses 
+
+* ## Mitigation strategies 
+
+* ## Response thresholds 
+
+* ## Strong bias towards birds and roads (because they are easy) 
+
+* ## Research outside of breeding season 
+
+---
+# A good first step: Understanding Exposure
+--- 
+
+## Exposure = noise footprint + animal hearing capability 
+
+.pull-right[
+<img src="figures/noise-footprint.png" width="80%" align="middle" /> 
+
+]
 
 
