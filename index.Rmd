@@ -128,7 +128,7 @@ output:
 
 <br>
 
-## **Three main behavioural pathways** 
+## **Three main behavioural pathways** (Francis and Barber 2013 *in Frontiers in Ecology and the Environment*)
 
 --
 
@@ -145,13 +145,13 @@ output:
 ---
 # Behavioural Effects of Noise Types
 ![](threat-cue-detection.png)
-
+Figure derived from: <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/120183">Francis and Barber (2013)</a>
 ---
 # Ultimate Effect of Noise 
 
 <img src="fitness-costs.png" width="50%" align="middle" />
 
-
+Figure derived from: <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/120183">Francis and Barber (2013)</a>
 ---
 # Types of Behavioural Effects 
 
