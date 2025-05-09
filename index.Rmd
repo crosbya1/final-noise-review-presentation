@@ -210,19 +210,26 @@ output:
 # Physiological Effects 
 
 ## Mainly seen in stress response
+* ### Increases in cortisol 
+* ### Increased heart rate 
+* ### Reductions in immune response 
+* ### Sleep disruptions implicated 
 
-<br> 
 
-## Direct hearing loss has been documented 
+## Direct hearing loss has been documented (Labratory experiments)
 
 ---
 # Fitness Costs 
 
-## Link between behavioural responses and populations 
+## Link between behavioural/phsiological responses and populations 
+
+* ## Reduced reproductive rates 
+
+* ## Lower survival rates 
 
 <br> 
 
-## Cascading effects as distributions shift and populations change 
+## **Cascading effects as distributions shift and populations change** 
 
 ---
 # Primary Questions of the Review 
@@ -231,7 +238,7 @@ output:
 
 <br> 
 
-## 2. Are there noise thresholds at which effects become pronounced? 
+## 2. Are there noise thresholds at which effects increase drastically? 
 
 <br> 
 
@@ -253,6 +260,18 @@ output:
 <br> 
 
 ## **Outcome:** Biological outcomes related to noise exposure 
+
+---
+# Formal Search Protocol 
+
+## Used literature map from **Sordello et al. (2020) *in Environmental Evidence*** as base 
+
+<br> 
+
+## Updated the Sordello et al. (2020) databse with systematic search using PECO framework (<a href="https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/">Web of Science</a>)
+
+## Search can be coninually updated 
+
 
 
 ---
@@ -291,6 +310,22 @@ output:
   <img src="sound_weighting_rutherford.png" width="110%" align="middle" />
 ]
 
+---
+# Species Hearing Capacity 
+
+## Hearing range described by audiograms 
+
+<img src="audiogram.png" width="60%" align="middle" />
+
+<a href="https://www.animalaudiograms.org/aboutaudiograms">Figure source: AnimalAudiograms.org</a>
+---
+# Sound Attenuation 
+
+## dB decreases with distance according to the Inverse Square Law
+
+<img src="sound-attenuation.png" width="60%" align="middle" />
+
+<a href="https://www.enoisecontrol.com/acoustic-terminology/doubling-distance-noise-reduction-decibel/">Figure source: eNoiseControl</a>
 
 ---
 # Sound Measurements 
@@ -496,9 +531,9 @@ output:
 
 ## Kleist et al. (2021) *in Journal of Animal Ecology*
 
-* ## Mule deer used areas with oil infrasturcture much more during production stage
+* ## Compared mule deer use of natural gas infrastructure areas during drilling (very noisy) and production (much less noisy) phases
 
-* ## Drilling phase created much more noise 
+* ## Higher use by mule deer during production phase
 
 * ## Strongly suggests noise is the primary factor 
 
@@ -606,11 +641,11 @@ output:
 
 ## Two aspects we can think about 
 
-* ## Timing of noise  
+## 1. Timing of noise  
 
 <br> 
 
-* ## Exposure to noise
+## 2. Exposure to noise
 
 ---
 # Timing of Noise
@@ -640,7 +675,7 @@ output:
 * ## Time of year 
 * ## Acoustic context (other noises) 
 
-## Guidence from previouis table 
+## Guidence from previous table (60-70 dB range)
 
 ---
 # Vibration Effects on Terrestrial Wildlife 
@@ -724,13 +759,12 @@ output:
 ## Exposure = noise footprint + animal hearing capability 
 
 .pull-left[
-## Sampling in rings around facilities 
+## Attenuation limits footprint
 
-## Calibration ARUs for dB and frequency
+## Sampling in rings around facilities 
 
 ## Mapping the noise footprint
 
-## Estimating exposure
 ]
 
 
@@ -738,5 +772,57 @@ output:
 <img src="figures/noise-footprint.png" width="70%" align="middle" /> 
 
 ]
+
+---
+# 2D Noise Footprint Maps  
+
+.pull-left[
+## Example from Alam et al. (2022) *in Frontiers in Sustainability*
+<img src="noise-map.png" width="100%" align="middle" /> 
+]
+
+.pull-right[
+* ## Can create species-specific maps using audiograms
+* ## Can overlay on habitat models 
+* ## Can explore how mitigations change maps 
+]
+
+---
+# Using Autonomous Recording Units (ARU) 
+
+--- 
+.pull-left[
+<img src="wildtrax.png" width="80%" align="middle" /> 
+* ### Designed for wildlife 
+* ### Need calibration protocol to convert to SPL measurements
+
+]
+
+.pull-right[
+<img src="aru.png" width="100%" align="middle" /> 
+
+] 
+
+---
+# Creating a calibration protocol
+## Pair ARUs with SPL meter
+
+.center[
+<img src="spl-array.png" width="70%" align="middle" /> 
+
+]
+
+---
+# Conclusions 
+--- 
+## We know noise effects wildlife in many different ways 
+
+<br> 
+
+## Translating knowledge to conservation is key 
+
+* ## Mapping noise footprint 
+* ## Incorporating species audiograms 
+* ## Use 
 
 
