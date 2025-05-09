@@ -660,10 +660,35 @@ output:
 ---
 # Sources of vibrational noise 
 
+## Natural sources 
+* ## Rain, waterfalls, large animals, etc... 
+
+## Anthropogenic sources 
+* ## Roads, railroads, mining, petroleum 
 
 
+---
+# Likely effects on terrestrial wildlife 
+
+## Inverebrates and subterranian mammals most affected 
+
+* ## Highest exposure 
+
+* ## Reliance on seismic cues 
 
 
+## Most likely pathway is masking 
+
+---
+# Studies at present 
+
+## Garden spiders (Wu and Elias 2014 *in Animal Behaviour*) 
+
+* ## Vibration reduced spider sensitivity to prey cues 
+
+## Midwife toad (Caorsi et al. 2019 *in Scientific Reports*)
+
+* ## Vibrations interfered with calling rate 
 
 ---
 # Research Gaps 
